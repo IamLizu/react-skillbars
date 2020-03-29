@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-skillbars/static/css/main.32b1a58e.chunk.css",
+    "main.js": "/react-skillbars/static/js/main.e77c38e0.chunk.js",
+    "main.js.map": "/react-skillbars/static/js/main.e77c38e0.chunk.js.map",
+    "runtime-main.js": "/react-skillbars/static/js/runtime-main.ed3d2c47.js",
+    "runtime-main.js.map": "/react-skillbars/static/js/runtime-main.ed3d2c47.js.map",
+    "static/js/2.211c17ec.chunk.js": "/react-skillbars/static/js/2.211c17ec.chunk.js",
+    "static/js/2.211c17ec.chunk.js.map": "/react-skillbars/static/js/2.211c17ec.chunk.js.map",
+    "index.html": "/react-skillbars/index.html",
+    "service-worker.js": "/react-skillbars/service-worker.js",
+    "service-worker.js.map": "/react-skillbars/service-worker.js.map",
+    "static/css/main.32b1a58e.chunk.css.map": "/react-skillbars/static/css/main.32b1a58e.chunk.css.map",
+    "static/js/2.211c17ec.chunk.js.LICENSE.txt": "/react-skillbars/static/js/2.211c17ec.chunk.js.LICENSE.txt",
+    "workbox-c53a4ca0.js": "/react-skillbars/workbox-c53a4ca0.js",
+    "workbox-c53a4ca0.js.map": "/react-skillbars/workbox-c53a4ca0.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed3d2c47.js",
+    "static/js/2.211c17ec.chunk.js",
+    "static/css/main.32b1a58e.chunk.css",
+    "static/js/main.e77c38e0.chunk.js"
+  ]
+}
