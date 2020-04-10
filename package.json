@@ -83,7 +83,7 @@
     "fs-extra": "^9.0.0",
     "greenkeeper-lockfile": "1.15.1",
     "html-webpack-plugin": "4.0.2",
-    "husky": "^4.2.3",
+    "husky": "^4.2.5",
     "identity-obj-proxy": "3.0.0",
     "jest": "25.2.3",
     "jest-environment-jsdom-fourteen": "1.0.1",
